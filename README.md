@@ -1,0 +1,2 @@
+# QuoteApp
+Flutter Clean Architecture
